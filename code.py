@@ -1,7 +1,3 @@
-# uncompyle6 version 3.7.4
-# Python bytecode 3.7 (3394)
-# Decompiled from: Python 3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)]
-# Embedded file name: 0xfff.py
 import os, sys, string, random, hashlib, time, PySimpleGUI as sg
 from getpass import getuser
 from socket import getfqdn
